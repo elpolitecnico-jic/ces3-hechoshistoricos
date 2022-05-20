@@ -4,13 +4,23 @@
 <hechosHistoricos>
     <hechoHistorico descripcion="Hola">
         <fecha>
-            <dia></dia>
-            <mes></mes>
-            <year></year>
+            <formatoFecha>
+                <dia>01</dia>
+                <mes>01</mes>
+                <year>2022</year>
+            </formatoFecha>
         </fecha>
         <epoca/>
         <personajeDestacado>
             Test persona <nombre></nombre> y fecha de nacimiento: <fechaDeNacimiento></fechaDeNacimiento>
         </personajeDestacado>
+    </hechoHistorico>
+    <hechoHistorico descripcion="Hola">
+        <fecha>
+            2022-10-09
+        </fecha>
+        <epoca/>
+        <personajeDestacado></personajeDestacado>
+        <personajeDestacado></personajeDestacado>
     </hechoHistorico>
 </hechosHistoricos>
