@@ -1,0 +1,11 @@
+<!ELEMENT hechosHistoricos (hechoHistorico)>
+<!ATTLIST hechoHistorico descripcion CDATA #REQUIRED>
+<!ELEMENT hechoHistorico (fecha, epoca, personajeDestacado)>
+<!ELEMENT epoca EMPTY>
+<!ELEMENT personajeDestacado ANY>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT fechaDeNacimiento (#PCDATA)>
+<!ELEMENT fecha (dia, mes, year)>
+<!ELEMENT dia (#PCDATA)>
+<!ELEMENT mes (#PCDATA)>
+<!ELEMENT year (#PCDATA)>

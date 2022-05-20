@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hechosHistoricos SYSTEM "hHistorico.dtd">
+<hechosHistoricos>
+    <hechoHistorico descripcion="Hola">
+        <fecha>
+            <dia></dia>
+            <mes></mes>
+            <year></year>
+        </fecha>
+        <epoca/>
+        <personajeDestacado>
+            Test persona <nombre></nombre> y fecha de nacimiento: <fechaDeNacimiento></fechaDeNacimiento>
+        </personajeDestacado>
+    </hechoHistorico>
+</hechosHistoricos>
